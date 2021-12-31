@@ -1,4 +1,4 @@
-import 'antd/dist/antd.css';
+import 'antd/dist/antd.min.css';
 import MainCountDown from './views/countDown/MainCountDown';
 
 function App() {

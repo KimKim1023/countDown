@@ -1,0 +1,22 @@
+.count_down {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+}
+
+.back_ground_opacity{
+    width: 100vw;
+    height: 100vh;
+    z-index: 100;
+    background-color: rgba(0, 0, 0, 0.9);
+}
+
+.count_down_sub {
+    z-index: 150;
+    font-size: 30em;
+    color: white;
+
+}
